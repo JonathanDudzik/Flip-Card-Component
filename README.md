@@ -1,7 +1,6 @@
-# vue-game
+# Flip Card
 
-## Build issue
-Seeing an issue where the routes to the CSS, JS, and image files in index.html are not being found locally or on Connect. I have fixed it by adding a period to any references to thoughs files (this is a stackoverflow question). This is related to the build not using base urls
+This is a small component that uses Vue and Gsap to create a card that turns (or flips) 180 degrees. I would like to use this in a portfolio project.
 
 ## Project setup
 ```
